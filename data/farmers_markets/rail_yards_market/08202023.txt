@@ -1,0 +1,6 @@
+'Veggie box',22,'usd','grapes','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','parsnips','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','garlic','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','shishito Peppers','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','cucumbers','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','red onion','Mendez Produce','Northern NM',''

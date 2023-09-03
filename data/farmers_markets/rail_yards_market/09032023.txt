@@ -1,0 +1,7 @@
+'Veggie box',22,'usd','cantaloupe','La Chinampa Farm','Central NM',''
+'Veggie box',22,'usd','green beans','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','daikon','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','peaches','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','summer squash','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','kale','Mendez Produce','Northern NM',''
+'Chili Vendor',15,'usd','Large bag of Red Chilis','Railyards Chili, Albuquerque NM',''
