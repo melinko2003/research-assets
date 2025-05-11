@@ -1,0 +1,8 @@
+'Item','Amount','Currency','Common Unit Name','Vendor','Vendor_location','notes' 
+'Veggie box',22,'usd','Cantaloupe','La Chinampa Farm','Central NM',''
+'Veggie box',22,'usd','Green Beans','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','Daikon','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','Peaches','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','Summer Squash','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','Kale','Mendez Produce','Northern NM',''
+'Large bag of Red Chilis',15,'usd','Dried Red Chilis','Railyards Chili, Albuquerque NM',''

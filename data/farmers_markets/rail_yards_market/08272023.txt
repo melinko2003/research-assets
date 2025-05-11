@@ -1,8 +1,0 @@
-'Item','Amount','Currency','Common Unit Name','Vendor','Vendor_location','notes' 
-'Veggie box',22,'usd','Fruit Mix: Plum,Peach,Nectarine,or Apples','EMS Farms','Central NM',''
-'Veggie box',22,'usd','grapes','Witches Garden','Northern NM',''
-'Veggie box',22,'usd','cherry tomatoes','Witches Garden','Northern NM',''
-'Veggie box',22,'usd','cilantro','Witches Garden','Northern NM',''
-'Veggie box',22,'usd','jalapenos peppers','Mendez Produce','Northern NM',''
-'Veggie box',22,'usd','cucumbers','Mendez Produce','Northern NM',''
-'Veggie box',22,'usd','red onion','NM Fungi','Central NM',''

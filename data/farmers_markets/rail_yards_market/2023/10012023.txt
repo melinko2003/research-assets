@@ -1,0 +1,8 @@
+'Item','Amount','Currency','Common Unit Name','Vendor','Vendor_location','notes' 
+'Veggie box',22,'usd','Apples','Montoyas Orchard','Northern NM',''
+'Veggie box',22,'usd','Bell Peppers','Montoyas Orchard','Northern NM',''
+'Veggie box',22,'usd','Beets','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','Kale','Mendez Produce','Northern NM',''
+'Veggie box',22,'usd','Watermelon Radish','Witches Garden','Northern NM',''
+'Veggie box',22,'usd','Cherry Tomatoes','Witches Garden','Northern NM',''
+

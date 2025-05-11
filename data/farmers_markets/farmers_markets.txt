@@ -1,1 +1,2 @@
-'','',''
+'Name','Location','Notes'
+'Rail Yards Market','Albuquerque, NM','Sundays @ 10:00AM'
